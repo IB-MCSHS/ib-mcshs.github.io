@@ -1,0 +1,26 @@
+title:: MCSHS-IB Culture
+
+- see-also: [[Systems, Practices and Procedures]]
+- If you can't do the little things then you can't do the big things.
+- You make it a big deal, by making it a big deal.
+- "Its not such a big deal."
+- School Rules but [[Higher-Order]]
+	- IB being leaders and examples within the school
+	- "Clean your room before you save the world."
+	- [[Dalai Lama]] quote:
+		- {{embed ((61e7698a-b230-4c55-be0a-e7b837bfbc35))}}
+		- But...accept that you may face consequences of breaking those rules. And this you know before you break them. Accept this as a young adult who considers themselves mature and sophisticated enough to knowingly and intentionally break the rules in the first place.
+	- School rules as practice for outside world.
+	- Understand the bigger picture: What's it like to try
+	- Grow up: Why should you get special treatment and others not?
+	- "Establishing expectations" - School #bm emphasis
+- Be P
+	- Be puncutal
+	- Be prepared
+	- Be polite
+	- Be productive
+	- ??
+- Explicit teaching of social skills
+- Questions of elitism and "specialness"
+- "And this is why we can't have nice things"
+	- Learning to draw the line, and act accordingly

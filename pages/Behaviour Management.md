@@ -1,0 +1,33 @@
+alias:: bm
+
+- [[Presentation PFD]] - [[Mark Swan]] [[Jan 19th, 2022]]
+  collapsed:: true
+	- The WHY
+		- Simplicity
+		- Consistency
+		- Oversight
+		- Empowerment
+	- Commentary by #SWANMA
+		- "making sure everyone has the same model, vision etc"
+		- playing "whack-a-mole", without changing patterns of behaviour
+		- "effortless steps to consistency"
+			- not big impositions on day-to-day running of the school
+		- "people change their behaviour very quickly knowing there will be consequences"
+	- [[Karpman's Drama Triangle]]
+		- {{embed [[Karpman's Drama Triangle]]}}
+	- New Roles
+	- Hegarty
+		- "Be proactive".
+		- Meeting every week.
+		- Where are problems beginning?
+		- Consistency across years.
+	- #SWANMA "Early intervention"
+	- Critique-Response
+		- There's an air of "if you disagree or air grievances, you are a whinger, or a whiner, playing the victim card."
+		- Consistency - SWANMA one of the biggest culprits
+		- Major vs Minor infractions - where are they listed? Need for #[[MCSHS Wiki Intranet]]
+		- The WHY is not an accurate representation of staff discontent
+		- OneSchool entry is not an "effortless step to consistency" #OneSchoolFatigue
+		-
+		-
+-

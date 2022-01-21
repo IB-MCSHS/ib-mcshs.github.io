@@ -1,0 +1,6 @@
+- [[Benefits of X-disciplinary thinking]]
+- X-disciplinary thinking is:
+	- Multi-disciplinary thinking
+	- Inter-disciplinary thinking
+	- Trans-disciplinary thinking
+-

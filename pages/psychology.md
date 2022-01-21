@@ -1,0 +1,3 @@
+alias:: psychology, psych
+
+-

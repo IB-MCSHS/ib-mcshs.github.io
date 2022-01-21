@@ -1,0 +1,3 @@
+- #interdisciplinary #MYP #IBO
+- [MYP interdisciplinary study | International Baccalaureate](https://ibo.org/programmes/middle-years-programme/curriculum/interdisciplinary/)
+-

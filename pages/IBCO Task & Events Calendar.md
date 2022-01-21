@@ -1,0 +1,35 @@
+title:: IBCO Task & Events Calendar
+
+- Tasks to allocate timings to
+- [[Events]]
+	- [[IB Graduation]]
+	- [[Year 10 IB Parent Night]]
+	- [[Year 11 IB Parent Night]]
+	- [[Year 12 IB Parent Night]]
+	- [[Year 9 Prospective IB Parent Night]]
+	- [[IBuddy]]
+	-
+- Terms-Months-Weeks in the Year
+	- [[Summer school holidays]] - second half
+		- [[January]]
+	- [[Term 1]]
+		- [[February]]
+		- [[March]]
+	- [[Easter school holidays]]
+	- [[Term 2]]
+		- [[April]]
+		- [[May]]
+		- [[June]]
+	- [[Winter school holidays]]
+	- [[Term 3]]
+		- [[July]]
+		- [[August]]
+		- [[September]]
+	- [[Spring school holidays]]
+	- [[Term 4]]
+		- [[October]]
+		- [[November]]
+			- get Year12 post-school contact details
+		- [[December]]
+	- [[Summer school holidays]] - first half
+		- [[December]]

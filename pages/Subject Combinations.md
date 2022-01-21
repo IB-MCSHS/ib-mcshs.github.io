@@ -1,0 +1,33 @@
+- [[English]]
+  collapsed:: true
+	- [[English-Art]]
+	- [[English-Theatre]]
+	- [[English-Music]]
+	- [[English-History]]
+	- [[English-Business]]
+	- [[English-Psychology]]
+	- [[English-Maths]]
+	- [[English-Biology]]
+	- [[English-Chemistry]]
+	- [[English-Physics]]
+	- [[English-ESS]]
+	-
+- [[Maths]]
+	- [[Maths-Chemistry]]
+	- [[Maths-Physics]]
+		-
+	-
+- [[Business Management]]
+- [[History]]
+- [[Psychology]]
+- [[ESS]]
+- [[Biology]]
+- [[Chemistry]]
+	- [[Chemistry-Maths]]
+- [[Physics]]
+	- [[Physics-Maths]]
+	-
+- [[Computer Science]]
+- [[Music]]
+- [[Visual Art]]
+- [[Theatre]]

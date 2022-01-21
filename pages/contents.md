@@ -1,0 +1,8 @@
+- Task Management
+	- {{query (todo doing)}}
+	- {{query [[deadline]] }}
+	- {{query [[A]] }}
+	- {{query [[B]] }}
+	- {{query (todo todo)}}
+	-
+-

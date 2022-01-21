@@ -1,0 +1,4 @@
+- #CORE+ #CORE #11core #10core
+- [MCSHS Careers Website URL](https://mountaincreekshscareers.com.au/)
+- [100 Future Jobs quiz](https://mountaincreekshscareers.com.au/future-jobs)
+-

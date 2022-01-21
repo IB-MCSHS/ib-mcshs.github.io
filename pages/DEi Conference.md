@@ -1,0 +1,14 @@
+- [Queensland DEI Conference](https://www.qlddeiconference.com.au/)
+- [[Jul 18th, 2022]]
+	- Website: The conference will:
+		- highlight and promote the benefits of expanding a global mindset in shaping positive futures for all students
+		- share approaches taken by schools to create authentic, inquisitive and collaborative opportunities for students to actively participate in their communities – locally, globally, digitally and personally
+		- explore ways to enhance student agency/voice and experience
+		- showcase the great work happening in our Queensland state schools to provide unique opportunities for international students.
+	- The largest conference of its kind in Queensland, the program offers teachers, education leaders, school staff and education agents the opportunity to:
+		- understand how global competence contributes to vibrant communities and a stronger economy
+		- share best practice in global learning and engagement in Queensland state schools
+		- explore pedagogical approaches, tools and resources to educate for global competence
+		- connect with industry, international education sector and global thought leaders
+		  learn about products and programs to extend the global reach and impact.
+-
