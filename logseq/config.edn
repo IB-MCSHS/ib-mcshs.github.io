@@ -52,7 +52,7 @@
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
  ;; :default-home {:page "IB Meeting - Week 0, 2022"}
- :default-home {:page "Home Public", :sidebar "Contents"}
+ :default-home {:page "Home Public"}
  
  
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
@@ -171,6 +171,7 @@
  :ui/show-brackets? false
  :feature/enable-timetracking? false
  :favorites ["deadline" "DOING" "A" "TODO" "10 ib global futures & foresight" "IB" "Tools for Thinking" "10 IB Physics" "12 PHY"]
+ :feature/enable-journals? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
