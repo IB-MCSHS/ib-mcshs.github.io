@@ -1,3 +1,4 @@
+public:: true
 title:: Home Public
 alias:: github page, ghp, public home
 
